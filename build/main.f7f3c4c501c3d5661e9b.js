@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("random asddqwd"),document.body.innerHTML='<div style="background: red">Hello world</div>'})();
